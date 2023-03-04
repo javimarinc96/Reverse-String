@@ -1,3 +1,4 @@
+![reverse-string](https://user-images.githubusercontent.com/44240533/222925146-44854410-59a4-460b-bb7f-fc5ac1f3bb29.svg)
 # Reverse String
 
 Welcome to Reverse String on Exercism's Java Track.
